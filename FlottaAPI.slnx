@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="FlottaAPI/FlottaAPI.csproj" />
+  <Project Path="Flottaidentity/Flottaidentity.csproj" Id="845eedb1-2000-4999-9ddc-60d6589c2474">
+    <BuildDependency Project="FlottaAPI/FlottaAPI.csproj" />
+  </Project>
+</Solution>
